@@ -1,0 +1,8 @@
+c:\Users\LONG\documents\visual studio 2012\Projects\WeChat\WeChatClient\obj\Debug\WeChatClient.Form1.resources
+c:\Users\LONG\documents\visual studio 2012\Projects\WeChat\WeChatClient\obj\Debug\WeChatClient.Properties.Resources.resources
+c:\Users\LONG\documents\visual studio 2012\Projects\WeChat\WeChatClient\obj\Debug\WeChatClient.csproj.GenerateResource.Cache
+c:\Users\LONG\documents\visual studio 2012\Projects\WeChat\WeChatClient\bin\Debug\WeChatClient.exe.config
+c:\Users\LONG\documents\visual studio 2012\Projects\WeChat\WeChatClient\bin\Debug\WeChatClient.exe
+c:\Users\LONG\documents\visual studio 2012\Projects\WeChat\WeChatClient\bin\Debug\WeChatClient.pdb
+c:\Users\LONG\documents\visual studio 2012\Projects\WeChat\WeChatClient\obj\Debug\WeChatClient.exe
+c:\Users\LONG\documents\visual studio 2012\Projects\WeChat\WeChatClient\obj\Debug\WeChatClient.pdb

@@ -1,0 +1,9 @@
+c:\users\long\documents\visual studio 2012\Projects\WeChat\WeChat\obj\Debug\WeChatServer.csprojResolveAssemblyReference.cache
+c:\users\long\documents\visual studio 2012\Projects\WeChat\WeChat\obj\Debug\WeChat.Form1.resources
+c:\users\long\documents\visual studio 2012\Projects\WeChat\WeChat\obj\Debug\WeChat.Properties.Resources.resources
+c:\users\long\documents\visual studio 2012\Projects\WeChat\WeChat\obj\Debug\WeChatServer.csproj.GenerateResource.Cache
+c:\users\long\documents\visual studio 2012\Projects\WeChat\WeChat\bin\Debug\WeChat.exe.config
+c:\users\long\documents\visual studio 2012\Projects\WeChat\WeChat\bin\Debug\WeChat.exe
+c:\users\long\documents\visual studio 2012\Projects\WeChat\WeChat\bin\Debug\WeChat.pdb
+c:\users\long\documents\visual studio 2012\Projects\WeChat\WeChat\obj\Debug\WeChat.exe
+c:\users\long\documents\visual studio 2012\Projects\WeChat\WeChat\obj\Debug\WeChat.pdb
